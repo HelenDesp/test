@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Zygote",
+    "hidden": false,
+    "icon": "default.png",
+    "skin": "",
+    "lang": "default",
+    "price": 0,
+    "achievement": -1
+  },
+  {
+    "name": "Fulani",
+    "hidden": false,
+    "icon": "pole.png",
+    "skin": "pole",
+    "lang": "pole",
+    "price": -1,
+    "achievement": 6
+  },
+  {
+    "name": "Meth",
+    "hidden": true,
+    "icon": "ovoplus.png",
+    "skin": "ovo+",
+    "lang": "ovoplus",
+    "price": -1,
+    "achievement": 5
+  },
+  {
+    "name": "VR",
+    "hidden": false,
+    "icon": "knight.png",
+    "skin": "knight",
+    "lang": "knight",
+    "price": 40,
+    "achievement": -1
+  },
+  {
+    "name": "Reptilian",
+    "hidden": false,
+    "icon": "astronaut.png",
+    "skin": "astronaut",
+    "lang": "astronaut",
+    "price": 70,
+    "achievement": -1
+  },
+  {
+    "name": "Alien",
+    "hidden": true,
+    "icon": "alien.png",
+    "skin": "alien",
+    "lang": "alien",
+    "price": -1,
+    "achievement": 7
+  },
+  {
+    "name": "Mickey",
+    "hidden": false,
+    "icon": "erigato.png",
+    "skin": "erigato",
+    "lang": "erigato",
+    "price": 50,
+    "achievement": -1
+  },
+  {
+    "name": "Batter",
+    "hidden": true,
+    "icon": "batter.png",
+    "skin": "batter",
+    "lang": "batter",
+    "price": -1,
+    "achievement": 10
+  },
+  {
+    "name": "Gaul",
+    "hidden": false,
+    "icon": "ada.png",
+    "skin": "ada",
+    "lang": "adalich",
+    "price": 0,
+    "achievement": -1
+  },
+  {
+    "name": "The Fallen",
+    "hidden": true,
+    "icon": "thefall.png",
+    "skin": "thefall",
+    "lang": "fallen",
+    "price": -1,
+    "achievement": 20
+  },
+  {
+    "name": "Invisible",
+    "hidden": false,
+    "icon": "pulse.png",
+    "skin": "pulse",
+    "lang": "pulse",
+    "price": -1,
+    "achievement": 8
+  },
+  {
+    "name": "Ninja",
+    "hidden": false,
+    "icon": "fl1ckd.png",
+    "skin": "fl1ckd",
+    "lang": "flickd",
+    "price": 50,
+    "achievement": -1
+  },
+  {
+    "name": "Chullo",
+    "hidden": false,
+    "icon": "theliljoker.png",
+    "skin": "theliljoker",
+    "lang": "theliljoker",
+    "price": -1,
+    "achievement": 9
+  },
+  {
+    "name": "French",
+    "hidden": false,
+    "icon": "french.png",
+    "skin": "french",
+    "lang": "french",
+    "price": 0,
+    "achievement": -1
+  },
+  {
+    "name": "Buffoon",
+    "hidden": false,
+    "icon": "brazilian.png",
+    "skin": "brazilian",
+    "lang": "brazilian",
+    "price": 0,
+    "achievement": -1
+  },
+  {
+    "name": "Among Us",
+    "hidden": false,
+    "icon": "amongus.png",
+    "skin": "amongus",
+    "lang": "amongus",
+    "price": 50,
+    "achievement": -1
+  }
+]
